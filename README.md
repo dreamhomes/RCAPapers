@@ -1,5 +1,5 @@
 # RCAPapers
-Papers about Root Cause Analysis in MicroService Systems, including call trace or call graph.
+A collection of papers about Root Cause Analysis/Detection/Location in MicroService Systems, including invocation chain, multi-dimensional metrics and machine metrics.
 
 ## Survey
 
@@ -7,13 +7,17 @@ Papers about Root Cause Analysis in MicroService Systems, including call trace o
 
 ## Methods
 
-### Metrics, TraceID
+Note: Different methods categoried by data type.
 
+### Metrics, Call chain with TraceID
+
+- [2017 WWW] Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications. [paper](https://dl.acm.org/doi/10.1145/3038912.3052649)
 - [2018 ICSOC] Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments. [paper](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
 - [2019 FSE] Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs. [paper](https://dl.acm.org/doi/10.1145/3338906.3338961)
-- [2017 WWW] Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications. [paper](https://dl.acm.org/doi/10.1145/3038912.3052649)
+- [2019 ASPLOS] Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices. [paper](https://dl.acm.org/doi/10.1145/3297858.3304004)
+- [2020 MLArchSys] Sage: Leveraging ML To Diagnose Unpredictable Performance in Cloud Microservices. [paper](https://www.csl.cornell.edu/~delimitrou/papers/2020.mlarchsys.sage.pdf)
 
-### Metrics, Non-TraceID
+### Metrics, Call chain without TraceID
 
 - [2013 SIGMETRICS] Root Cause Detection in a Service-Oriented Architecture [MonitorRank]. [paper](https://dl.acm.org/doi/10.1145/2465529.2465753) 
 - [2015 IWQoS] A methodology for root-cause analysis in component based systems. [paper]( https://ieeexplore.ieee.org/document/7404741)
@@ -31,3 +35,15 @@ Papers about Root Cause Analysis in MicroService Systems, including call trace o
 - [2016 KDD] Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations. [paper](https://dl.acm.org/doi/10.1145/2939672.2939765)
 - [2017 ICDM] Ranking Causal Anomalies by Modeling Local Propagations on Networked Systems. [paper](https://ieeexplore.ieee.org/document/8215592)
 
+### Metrics, Graph
+
+Note：Graph data includes System State Graph, Dependency graph and so on.
+
+- [2019 ICPADS] ADGS: Anomaly Detection and Localization based on Graph Similarity in Container-based Clouds. [paper](https://ieeexplore.ieee.org/document/8975844)
+- [2013 ICDCS] FChain: Toward Black-box Online Fault Localization for Cloud Systems. [paper](https://ieeexplore.ieee.org/document/6681572)
+
+### TODO
+
+- [2018 ASE] Delta debugging microservice systems. [paper](https://dl.acm.org/doi/10.1145/3238147.3240730)
+- [2019 VLDB] GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data
+  Platform. [paper](https://dl.acm.org/doi/10.14778/3352063.3352105)
