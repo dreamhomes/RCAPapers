@@ -24,6 +24,7 @@ Note: Different methods categoried by data type.
 - [2017 TPDS] Failure Diagnosis for Distributed Systems Using Targeted Fault Injection. [paper](https://ieeexplore.ieee.org/document/7484300)
 - [2018 IWQoS] Root Cause Analysis of Anomalies of Multitier Services in Public Clouds. [paper](https://ieeexplore.ieee.org/document/7969155)
 - [2018 CCGRID] CloudRanger: Root Cause Identification for Cloud Native Systems. [paper](https://ieeexplore.ieee.org/document/8411065)
+- [2018 ASE] Delta debugging microservice systems. [paper](https://dl.acm.org/doi/10.1145/3238147.3240730)
 - [2019 ICWS] MS-Rank: Multi-Metric and Self-Adaptive Root Cause Diagnosis for Microservice Applications. [paper](https://ieeexplore.ieee.org/document/8818432)
 - [2019 TSC] Microservices Monitoring with Event Logs and Black Box Execution Tracing. [paper](https://ieeexplore.ieee.org/document/8826375)
 - [2019 Access] A Real-Time Trace-Level Root-Cause Diagnosis System in Alibaba Datacenters. [paper](https://ieeexplore.ieee.org/document/8852648)
@@ -39,11 +40,11 @@ Note: Different methods categoried by data type.
 
 Note：Graph data includes System State Graph, Dependency graph and so on.
 
-- [2019 ICPADS] ADGS: Anomaly Detection and Localization based on Graph Similarity in Container-based Clouds. [paper](https://ieeexplore.ieee.org/document/8975844)
 - [2013 ICDCS] FChain: Toward Black-box Online Fault Localization for Cloud Systems. [paper](https://ieeexplore.ieee.org/document/6681572)
-
-### TODO
-
-- [2018 ASE] Delta debugging microservice systems. [paper](https://dl.acm.org/doi/10.1145/3238147.3240730)
+- [2019 ICPADS] ADGS: Anomaly Detection and Localization based on Graph Similarity in Container-based Clouds. [paper](https://ieeexplore.ieee.org/document/8975844)
 - [2019 VLDB] GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data
   Platform. [paper](https://dl.acm.org/doi/10.14778/3352063.3352105)
+
+### Software faults
+
+- [2019 ISSTA] DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization
