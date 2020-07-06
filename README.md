@@ -1,5 +1,5 @@
 # RCAPapers
-A collection of papers about Root Cause Analysis/Detection/Location in MicroService Systems, including invocation chain, multi-dimensional metrics and machine metrics.
+A collection of papers about Root Cause Analysis/Diagnosis/Detection/Location in MicroService Systems, including invocation chain, multi-dimensional metrics and machine metrics.
 
 ## Survey
 
@@ -45,6 +45,6 @@ Note：Graph data includes System State Graph, Dependency graph and so on.
 - [2019 VLDB] GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data
   Platform. [paper](https://dl.acm.org/doi/10.14778/3352063.3352105)
 
-### Software faults
+### Software/Program faults
 
 - [2019 ISSTA] DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization
