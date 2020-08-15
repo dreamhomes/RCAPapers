@@ -44,7 +44,8 @@ Note：Graph data includes System State Graph, Dependency graph and so on.
 - [2019 ICPADS] ADGS: Anomaly Detection and Localization based on Graph Similarity in Container-based Clouds. [paper](https://ieeexplore.ieee.org/document/8975844)
 - [2019 VLDB] GRANO: Interactive Graph-based Root Cause Analysis for Cloud-Native Distributed Data
   Platform. [paper](https://dl.acm.org/doi/10.14778/3352063.3352105)
+- [2019 JSS] Graph-based root cause analysis for service-oriented and microservice architectures。 [Graph-based root cause analysis for service-oriented and microservice architectures](https://www.sciencedirect.com/science/article/pii/S0164121219302067)
 
 ### Software/Program faults
 
-- [2019 ISSTA] DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization
+- [2019 ISSTA] DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization. [paper](https://dl.acm.org/doi/10.1145/3293882.3330574)
