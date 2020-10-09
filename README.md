@@ -36,6 +36,7 @@ Note: Different methods categoried by data type.
 - [2018 CCGRID] CloudRanger: Root Cause Identiﬁcation for Cloud Native Systems. [paper](https://ieeexplore.ieee.org/document/8411065)
 - [2018 IPCCC] FacGraph: Frequent Anomaly Correlation Graph Mining for Root Cause Diagnose in Micro-Service Architecture. [paper](https://ieeexplore.ieee.org/document/8711092)
 - [2019 ICWS] MS-Rank: Multi-Metric and Self-Adaptive Root Cause Diagnosis for Microservice Applications. [paper](https://ieeexplore.ieee.org/document/8818432)
+- [2020 Appl. Sci.] A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications. [paper](https://www.mdpi.com/2076-3417/10/6/2166)
 - [2020 WWW] AutoMAP: Diagnose Your Microservice-based Web Applications Automatically. [paper](https://dl.acm.org/doi/10.1145/3366423.3380111)
 
 ### Metrics, Graph
