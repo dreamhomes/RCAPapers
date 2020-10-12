@@ -1,5 +1,5 @@
 # RCAPapers
-A collection of papers about Root Cause Analysis/Diagnosis/Detection/Location in MicroService Systems, including invocation chain, multi-dimensional metrics and machine metrics.
+A collection of papers about Root Cause Analysis/Diagnosis/Localization in MicroService Systems, including invocation chain, multi-dimensional metrics and machine metrics.
 
 ## Survey
 
@@ -38,6 +38,7 @@ Note: Different methods categoried by data type.
 - [2019 *ICWS*] MS-Rank: Multi-Metric and Self-Adaptive Root Cause Diagnosis for Microservice Applications. [paper](https://ieeexplore.ieee.org/document/8818432)
 - [2020 *Appl. Sci.*] A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications. [paper](https://www.mdpi.com/2076-3417/10/6/2166)
 - [2020 *WWW*] AutoMAP: Diagnose Your Microservice-based Web Applications Automatically. [paper](https://dl.acm.org/doi/10.1145/3366423.3380111)
+- [2020 *IWQoS*] Localizing Failure Root Causes in a Microservice through Causality Inference. [paper](https://ieeexplore.ieee.org/document/9213058)
 
 ### Metrics, Graph
 
