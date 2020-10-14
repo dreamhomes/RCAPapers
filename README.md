@@ -9,15 +9,16 @@ A collection of papers about Root Cause Analysis/Diagnosis/Localization in Micro
 
 Note: Different methods categoried by data type.
 
-### Metrics, Call chain with TraceID
+### Metrics, Trace
 
 - [2017 *WWW*] Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications. [paper](https://dl.acm.org/doi/10.1145/3038912.3052649)
 - [2018 *ICSOC*] Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments. [paper](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
 - [2019 *FSE*] Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs. [paper](https://dl.acm.org/doi/10.1145/3338906.3338961)
 - [2019 *ASPLOS*] Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices. [paper](https://dl.acm.org/doi/10.1145/3297858.3304004)
 - [2020 *MLArchSys*] Sage: Leveraging ML To Diagnose Unpredictable Performance in Cloud Microservices. [paper](https://www.csl.cornell.edu/~delimitrou/papers/2020.mlarchsys.sage.pdf)
+- [2020 *ISSRE*] Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks. [paper](https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf)
 
-### Metrics, Call chain without TraceID
+### Metrics, Invocation
 
 - [2013 *SIGMETRICS*] Root Cause Detection in a Service-Oriented Architecture [MonitorRank]. [paper](https://dl.acm.org/doi/10.1145/2465529.2465753) 
 - [2015 *IWQoS*] A methodology for root-cause analysis in component based systems. [paper]( https://ieeexplore.ieee.org/document/7404741)
