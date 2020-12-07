@@ -54,7 +54,10 @@ Note：Graph data includes System State Graph, Dependency graph and so on.
 - [2019 *JSS*] Graph-based root cause analysis for service-oriented and microservice architectures. [peper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)
 - [2020 *NOMS*] MicroRCA: Root Cause Localization of Performance Issues in Microservices. [paper](https://hal.inria.fr/hal-02441640)
 - [2020 *ICSOC*] Localization of Operational Faults in Cloud Applications by Mining Causal Dependencies in Logs using Golden Signals. [paper](https://www.researchgate.net/publication/344435606_Localization_of_Operational_Faults_in_Cloud_Applications_by_Mining_Causal_Dependencies_in_Logs_using_Golden_Signals)
+- [2020 *SoSE*] Graph Based Root Cause Analysis in Cloud Data Center. [paper](https://ieeexplore.ieee.org/document/9130526)
 
 ### Software/Program faults
 
-- [2019 *ISSTA*] DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization. [paper](https://dl.acm.org/doi/10.1145/3293882.3330574)
+- [2019 *ISSTA*] DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization. [paper](https://dl.acm.org/doi/10.1145/3293882.3330574) 
+- [2019 *ASE*] Root Cause Localization for Unreproducible Builds via Causality Analysis over System Call Tracing. [paper](https://ieeexplore.ieee.org/document/8952375)
+- [2020 *AAAI*] Control Flow Graph Embedding based on Multi-Instance Decomposition for Bug Localization. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5844)
