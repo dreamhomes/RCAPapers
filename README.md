@@ -9,17 +9,6 @@ A collection of papers about Root Cause Analysis/Diagnosis/Localization in Micro
 
 Note: Different methods categoried by data type.
 
-### Metrics, Trace
-
-- [2017 *WWW*] Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications. [paper](https://dl.acm.org/doi/10.1145/3038912.3052649)
-- [2018 *ICSOC*] Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments. [paper](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
-- [2019 *FSE*] Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs. [paper](https://dl.acm.org/doi/10.1145/3338906.3338961)
-- [2019 *ASE*] Root Cause Localization for Unreproducible Builds via Causality Analysis over System Call Tracing. [paper](http://taoxie.cs.illinois.edu/publications/ase19-reptrace.pdf)
-- [2019 *ASPLOS*] Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices. [paper](https://dl.acm.org/doi/10.1145/3297858.3304004)
-- [2020 *MLArchSys*] Sage: Leveraging ML To Diagnose Unpredictable Performance in Cloud Microservices. [paper](https://www.csl.cornell.edu/~delimitrou/papers/2020.mlarchsys.sage.pdf)
-- [2020 *ISSRE*] Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks. [paper](https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf)
-- [2020 *ESEC/FSE*] Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. [paper](https://dl.acm.org/doi/10.1145/3368089.3417066)
-
 ### Metrics, Invocation
 
 - [2013 *SIGMETRICS*] Root Cause Detection in a Service-Oriented Architecture [MonitorRank]. [paper](https://dl.acm.org/doi/10.1145/2465529.2465753) 
@@ -31,9 +20,6 @@ Note: Different methods categoried by data type.
 - [2019 *TSC*] Microservices Monitoring with Event Logs and Black Box Execution Tracing. [paper](https://ieeexplore.ieee.org/document/8826375)
 - [2019 *Access*] A Real-Time Trace-Level Root-Cause Diagnosis System in Alibaba Datacenters. [paper](https://ieeexplore.ieee.org/document/8852648)
 - [2020 *JSS*] Graph-based root cause analysis for service-oriented and microservice architectures. [paper](https://www.sciencedirect.com/science/article/pii/S0164121219302067)
-
-### Only Metrics
-
 - [2016 *KDD*] Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations. [paper](https://dl.acm.org/doi/10.1145/2939672.2939765)
 - [2017 *ICDM*] Ranking Causal Anomalies by Modeling Local Propagations on Networked Systems. [paper](https://ieeexplore.ieee.org/document/8215592)
 - [2018 *CCGRID*] CloudRanger: Root Cause Identiﬁcation for Cloud Native Systems. [paper](https://ieeexplore.ieee.org/document/8411065)
@@ -43,6 +29,18 @@ Note: Different methods categoried by data type.
 - [2020 *WWW*] AutoMAP: Diagnose Your Microservice-based Web Applications Automatically. [paper](https://dl.acm.org/doi/10.1145/3366423.3380111)
 - [2020 *IWQoS*] Localizing Failure Root Causes in a Microservice through Causality Inference. [paper](https://ieeexplore.ieee.org/document/9213058)
 - [2021 *ICSE*] MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems. [paper]()
+
+### Metrics, Trace
+
+- [2017 *WWW*] Performance Monitoring and Root Cause Analysis for Cloud-hosted Web Applications. [paper](https://dl.acm.org/doi/10.1145/3038912.3052649)
+- [2018 *ICSOC*] Microscope: Pinpoint Performance Issues with Causal Graphs in Micro-service Environments. [paper](https://link.springer.com/chapter/10.1007/978-3-030-03596-9_1)
+- [2019 *FSE*] Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs. [paper](https://dl.acm.org/doi/10.1145/3338906.3338961)
+- [2019 *ASE*] Root Cause Localization for Unreproducible Builds via Causality Analysis over System Call Tracing. [paper](http://taoxie.cs.illinois.edu/publications/ase19-reptrace.pdf)
+- [2019 *ASPLOS*] Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices. [paper](https://dl.acm.org/doi/10.1145/3297858.3304004)
+- [2020 *MLArchSys*] Sage: Leveraging ML To Diagnose Unpredictable Performance in Cloud Microservices. [paper](https://www.csl.cornell.edu/~delimitrou/papers/2020.mlarchsys.sage.pdf)
+- [2020 *ISSRE*] Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks. [paper](https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf)
+- [2020 *ESEC/FSE*] Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. [paper](https://dl.acm.org/doi/10.1145/3368089.3417066)
+
 
 ### Metrics, Graph
 
