@@ -28,7 +28,8 @@ Note: Different methods categoried by data type.
 - [2020 *Appl. Sci.*] A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications. [paper](https://www.mdpi.com/2076-3417/10/6/2166)
 - [2020 *WWW*] AutoMAP: Diagnose Your Microservice-based Web Applications Automatically. [paper](https://dl.acm.org/doi/10.1145/3366423.3380111)
 - [2020 *IWQoS*] Localizing Failure Root Causes in a Microservice through Causality Inference. [paper](https://ieeexplore.ieee.org/document/9213058)
-- [2021 *ICSE*] MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems. [paper]()
+- [2021 *ICSE*] MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems. [paper](https://arxiv.org/pdf/2103.01782.pdf)
+- [2021 *ICSE*] MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems. [paper](https://hal.inria.fr/hal-03155797/document)
 
 ### Metrics, Trace
 
