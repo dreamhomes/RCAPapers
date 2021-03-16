@@ -23,13 +23,13 @@ Note: Different methods categoried by data type.
 - [2016 *KDD*] Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations. [paper](https://dl.acm.org/doi/10.1145/2939672.2939765)
 - [2017 *ICDM*] Ranking Causal Anomalies by Modeling Local Propagations on Networked Systems. [paper](https://ieeexplore.ieee.org/document/8215592)
 - [2018 *CCGRID*] CloudRanger: Root Cause Identiﬁcation for Cloud Native Systems. [paper](https://ieeexplore.ieee.org/document/8411065)
+- [2018 *ICST*] Localizing Faults in Cloud Systems. [paper](https://ieeexplore.ieee.org/document/8367054)
 - [2018 *IPCCC*] FacGraph: Frequent Anomaly Correlation Graph Mining for Root Cause Diagnose in Micro-Service Architecture. [paper](https://ieeexplore.ieee.org/document/8711092)
 - [2019 *ICWS*] MS-Rank: Multi-Metric and Self-Adaptive Root Cause Diagnosis for Microservice Applications. [paper](https://ieeexplore.ieee.org/document/8818432)
 - [2020 *Appl. Sci.*] A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications. [paper](https://www.mdpi.com/2076-3417/10/6/2166)
 - [2020 *WWW*] AutoMAP: Diagnose Your Microservice-based Web Applications Automatically. [paper](https://dl.acm.org/doi/10.1145/3366423.3380111)
 - [2020 *IWQoS*] Localizing Failure Root Causes in a Microservice through Causality Inference. [paper](https://ieeexplore.ieee.org/document/9213058)
 - [2021 *ICSE*] MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems. [paper](https://arxiv.org/pdf/2103.01782.pdf)
-- [2021 *ICSE*] MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems. [paper](https://hal.inria.fr/hal-03155797/document)
 
 ### Metrics, Trace
 
@@ -55,6 +55,7 @@ Note：Graph data includes System State Graph, Dependency graph and so on.
 - [2020 *NOMS*] MicroRCA: Root Cause Localization of Performance Issues in Microservices. [paper](https://hal.inria.fr/hal-02441640)
 - [2020 *ICSOC*] Localization of Operational Faults in Cloud Applications by Mining Causal Dependencies in Logs using Golden Signals. [paper](https://www.researchgate.net/publication/344435606_Localization_of_Operational_Faults_in_Cloud_Applications_by_Mining_Causal_Dependencies_in_Logs_using_Golden_Signals)
 - [2020 *SoSE*] Graph Based Root Cause Analysis in Cloud Data Center. [paper](https://ieeexplore.ieee.org/document/9130526)
+- [2021 *ICSE*] MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems. [paper](https://hal.inria.fr/hal-03155797/document)
 
 ### Software/Program faults
 
