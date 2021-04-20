@@ -41,6 +41,7 @@ Note: Different methods categoried by data type.
 - [2020 *MLArchSys*] Sage: Leveraging ML To Diagnose Unpredictable Performance in Cloud Microservices. [paper](https://www.csl.cornell.edu/~delimitrou/papers/2020.mlarchsys.sage.pdf)
 - [2020 *ISSRE*] Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks. [paper](https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf)
 - [2020 *ESEC/FSE*] Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. [paper](https://dl.acm.org/doi/10.1145/3368089.3417066)
+- [2021 *WWW*] MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments. [paper](https://theweb.miteam.eu/asset/Cmj4NWeaKnu9enL53)
 
 
 ### Metrics, Graph
@@ -61,4 +62,5 @@ Note：Graph data includes System State Graph, Dependency graph and so on.
 
 - [2019 *ISSTA*] DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization. [paper](https://dl.acm.org/doi/10.1145/3293882.3330574) 
 - [2019 *ASE*] Root Cause Localization for Unreproducible Builds via Causality Analysis over System Call Tracing. [paper](https://ieeexplore.ieee.org/document/8952375)
+- [2019 *TSE*] An Empirical Study of Boosting Spectrum-based Fault Localization via PageRank. [paper](https://ieeexplore.ieee.org/document/8698881)
 - [2020 *AAAI*] Control Flow Graph Embedding based on Multi-Instance Decomposition for Bug Localization. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5844)
