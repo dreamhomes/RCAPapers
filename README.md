@@ -42,6 +42,7 @@ Note: Different methods categoried by data type.
 - [2020 *ISSRE*] Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks. [paper](https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf)
 - [2020 *ESEC/FSE*] Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. [paper](https://dl.acm.org/doi/10.1145/3368089.3417066)
 - [2021 *WWW*] MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments. [paper](https://theweb.miteam.eu/asset/Cmj4NWeaKnu9enL53)
+- [2021 *ICSE*] TraceLingo: Trace representation and learning for performance issue diagnosis in cloud services. [notes](https://dreamhomes.top/posts/202105181534.html)
 
 
 ### Metrics, Graph
