@@ -46,9 +46,9 @@ Note: Different methods categoried by data type.
 - [2020 *ESEC/FSE*] Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis. [paper](https://dl.acm.org/doi/10.1145/3368089.3417066)
 - [2021 *WWW*] MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments. [paper](https://theweb.miteam.eu/asset/Cmj4NWeaKnu9enL53)
 - [2021 *ICSE*] TraceLingo: Trace representation and learning for performance issue diagnosis in cloud services. [notes](https://dreamhomes.top/posts/202105181534.html)
+- [2021 *IWQoS*] Practical Root Cause Localization for Microservice Systems via Trace Analysis. [paper](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf)
 
-
-### Metrics, Graph
+### Metrics, Dependency graph
 
 Note：Graph data includes System State Graph, Dependency graph and so on.
 
@@ -61,6 +61,7 @@ Note：Graph data includes System State Graph, Dependency graph and so on.
 - [2020 *ICSOC*] Localization of Operational Faults in Cloud Applications by Mining Causal Dependencies in Logs using Golden Signals. [paper](https://www.researchgate.net/publication/344435606_Localization_of_Operational_Faults_in_Cloud_Applications_by_Mining_Causal_Dependencies_in_Logs_using_Golden_Signals)
 - [2020 *SoSE*] Graph Based Root Cause Analysis in Cloud Data Center. [paper](https://ieeexplore.ieee.org/document/9130526)
 - [2021 *ICSE*] MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems. [paper](https://hal.inria.fr/hal-03155797/document)
+- [2021 *ASE*] Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings. [paper](https://arxiv.org/abs/2108.00344)
 
 ### Software/Program faults
 
