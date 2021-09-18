@@ -33,6 +33,7 @@ Note: Different methods categoried by data type.
 - [2020 *IWQoS*] Localizing Failure Root Causes in a Microservice through Causality Inference. [paper](https://ieeexplore.ieee.org/document/9213058)
 - [2021 *ICSE*] MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems. [paper](https://arxiv.org/pdf/2103.01782.pdf)
 - [2021 *ISSTA*] Faster, Deeper, Easier: Crowdsourcing Diagnosis of Microservice Kernel Failure from User Space. [paper](https://dl.acm.org/doi/10.1145/3460319.3464805)
+- [2021 *SEKE*] AAMR: Automated Anomalous Microservice Ranking in Cloud-Native Environment. [paper](https://ksiresearch.org/seke/seke21paper/paper091.pdf)
 
 ### Metrics, Trace
 
@@ -47,6 +48,7 @@ Note: Different methods categoried by data type.
 - [2021 *WWW*] MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments. [paper](https://theweb.miteam.eu/asset/Cmj4NWeaKnu9enL53)
 - [2021 *ICSE*] TraceLingo: Trace representation and learning for performance issue diagnosis in cloud services. [notes](https://dreamhomes.top/posts/202105181534.html)
 - [2021 *IWQoS*] Practical Root Cause Localization for Microservice Systems via Trace Analysis. [paper](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf)
+- [2021 *ASE*] AID: Efﬁcient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems. [paper](https://arxiv.org/abs/2109.04893)
 
 ### Metrics, Dependency graph
 
