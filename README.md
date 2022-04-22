@@ -49,7 +49,7 @@ Note: Different methods categoried by data type.
 - [2021 *ICSE*] TraceLingo: Trace representation and learning for performance issue diagnosis in cloud services. [notes](https://dreamhomes.top/posts/202105181534.html)
 - [2021 *IWQoS*] Practical Root Cause Localization for Microservice Systems via Trace Analysis. [paper](https://netman.aiops.org/wp-content/uploads/2021/05/1570705191.pdf)
 - [2021 *ASE*] AID: Efﬁcient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems. [paper](https://arxiv.org/abs/2109.04893)
-
+- [2022 *ICSE*] Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning. [paper](https://cspengxin.github.io/publications/icse22-DeepTraLog.pdf)
 ### Metrics, Dependency graph
 
 Note：Graph data includes System State Graph, Dependency graph and so on.
